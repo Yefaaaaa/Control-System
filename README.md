@@ -1,7 +1,6 @@
 # NCEES - Electrical and Computer Engineering Test
 13.Control-System
-
-Demo System for different types of system
+Demo some basic control system concepts
 
 # Copy Right
 All demoes are for learning purpose. It is a open source for everyone. 
