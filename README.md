@@ -1,6 +1,6 @@
 # NCEES - Electrical and Computer Engineering Test
 
-9. Signal Processing
+9.Signal Processing
 
 Analog filters & Digital filters
 
