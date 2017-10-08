@@ -1,10 +1,10 @@
 # NCEES - Electrical and Computer Engineering Test
 
-9.Signal Processing
+9. Signal Processing
 
 Analog filters & Digital filters
 
-13.Control-System
+13. Control-System
 
 Demo some basic control system concepts
 
